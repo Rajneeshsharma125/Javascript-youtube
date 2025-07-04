@@ -1,2 +1,3 @@
-# Javascript-youtube
+# Javascript-BEGINNER
+
 a code repo for javascript series
